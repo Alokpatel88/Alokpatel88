@@ -5,12 +5,6 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN stack project.<br>👯 I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning react and backend technologies.<br>💬 Ask me about data structures & algorithms.<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alokpatel88/Alokpatel88/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alokpatel88/Alokpatel88/output/github-contribution-grid-snake.svg">
-</picture>
-
 _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpatel88)_
 
 # 💻 Tech Stack:
@@ -23,6 +17,11 @@ _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpat
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdazlaanzubair&icon=3&color=5)](https://visitcount.itsvg.in)
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+
 
  
   
