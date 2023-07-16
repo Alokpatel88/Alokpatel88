@@ -23,7 +23,16 @@ _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpat
 ---
 [![](https://visitcount.itsvg.in/api?id=mdazlaanzubair&icon=3&color=5)](https://visitcount.itsvg.in)
 
+
+## 📈 Productivity Stats:
+
+<div align="left" >
+ <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alokpatel88&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
+<div>
+
+
 ## Watch snake eating my github contributions 
+
  
 ![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
 
