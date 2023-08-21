@@ -1,8 +1,12 @@
+# 💫 About Me:
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Alok+Patel;Software+Engineer;Full+Stack+Devloper">
 </h1>
 
-# 💫 About Me:
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+
+
 🔭 I’m currently working on MERN stack project.<br>👯 I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning react and backend technologies.<br>💬 Ask me about data structures & algorithms.<br>
 
 _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpatel88)_
