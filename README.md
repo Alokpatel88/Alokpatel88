@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Alok+Patel;Software+Engineer;Full+Stack+Devloper">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Alok+Patel;Software+Engineer;Frontend+Stack+Devloper">
 </h1>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
