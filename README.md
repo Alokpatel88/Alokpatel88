@@ -7,7 +7,7 @@
 
 
 
-🔭 I’m currently working on MERN stack project.<br>👯 I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning react and backend technologies.<br>💬 Ask me about data structures & algorithms.<br>
+💬 Ask me about data structures & algorithms.<br> 🔭I’m currently working on MERN stack project.<br>🌱 I’m currently learning react and backend technologies.
 
 _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpatel88)_
 
