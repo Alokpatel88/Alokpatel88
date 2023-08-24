@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🎓👨‍🎓 About Me:
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Alok;Software+Engineer;Frontend+Developer">
 </h1>
