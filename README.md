@@ -12,7 +12,7 @@
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-💬 Ask me about data structures & algorithms.<br> 🔭I’m currently working on MERN stack project.<br>🌱 I’m currently learning react and backend technologies.
+💬 Ask me about data structures & algorithms.<br> 🔭I’m Completed Some Projects on MERN stack and Springboot.<br>🌱 I’m currently learning microservices design pattern.
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
