@@ -8,17 +8,11 @@
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
 💬 Ask me about data structures & algorithms.<br> 🔭I’m Completed Some Projects on MERN stack and Springboot.<br>🌱 I’m currently learning microservices design pattern.
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 _generated with [Alokpatel88/Alokpatel88](https://github.com/Alokpatel88/Alokpatel88)_
-
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🛠 Skills
 
@@ -66,10 +60,6 @@ Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp;
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokpatel88&" alt="alokpatel88" /></p>
 
-
-
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
  <div align="left">
@@ -96,15 +86,8 @@ Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp;
  <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alokpatel88&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
 <div>
 
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## Watch snake eating my github contributions 
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
- 
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-
- 
-  
